@@ -16,6 +16,6 @@
 
 #fourth {
     background-color: rgb(112, 243, 112);
-    font-size: 24px;
+    font-size: 24px; /* I can remove it as it's included in class ".third" */
     font-weight: bold;
 }
