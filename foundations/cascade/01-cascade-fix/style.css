@@ -22,7 +22,7 @@ body {
   font-weight: bold;
 } 
 
-#cancel-button,
+#cancel-button, /* Same way as TOP but I created ID#cancel-button to prioritize ID */
 .button {
   background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
